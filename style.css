@@ -1,0 +1,173 @@
+:root {
+  --bg-color: ghostwhite;
+}
+
+body {
+  background-color: var(--bg-color);
+  
+}
+
+
+h1 {
+  font-family: 'Times New Roman', Times, serif;
+  font-weight: bold;
+  font-size: 25px;
+  color: goldenrod;
+  
+}
+
+.con {
+  display: flex;
+  justify-content: space-around;
+  align-items: center;
+  justify-content: flex-end;
+  gap: 10px;
+  
+}
+
+a {
+  text-decoration: none;
+  border: 1px solid oldlace;
+  background-color: goldenrod;
+  padding: 5px;
+  border-radius: 10px;
+  color: black;
+ 
+}
+
+h3  {
+  font-family: 'Times New Roman', Times, serif;
+  color: goldenrod;
+  border: 1px solid goldenrod;
+  font-size: 15px;
+  padding: 5px;
+  border-radius: 0px 20px;
+}
+
+div p {
+  border: 1px solid gainsboro;
+  padding: 10px;
+  background-color: gainsboro;
+  font-family: 'Times New Roman', Times, serif;
+  font-size: 10px;
+}
+
+.yusuf {
+  width: 80px;
+  height: 80px;
+  
+  border-radius: 40px;
+}
+
+.founder {
+  
+  padding: 10px;
+  
+}
+
+h4 {
+ color: goldenrod;
+ font-family: 'Times New Roman', Times, serif;
+}
+
+q {
+font-style: italic;
+font-family: 'Times New Roman', Times, serif;
+}
+
+h5 {
+  margin-left: 100px;
+  font-style: italic;
+  font-family: 'Times New Roman', Times, serif;
+}
+
+.activity {
+  border: 1px solid gainsboro;
+  padding: 10px;
+  border-radius: 10px;
+  margin: 10px;
+}
+
+.soft {
+  font-size: 17px;
+}
+
+marquee {
+  border-radius: 20px 0px;
+}
+
+.room {
+  font-size: 17px;
+  padding: 15px;
+  text-align: center;
+  font-weight: bold;
+}
+
+.aljazari {
+  width: 200px;
+  border-radius: 5px;
+  margin-left: 70px;
+  margin-top: 10px;
+}
+
+
+button {
+  height: 70px;
+  margin-left: 44px;
+  
+  background-color: transparent;
+  border: 1px solid goldenrod;
+  border-radius: 10px;
+  
+}
+
+.newsletter {
+  border: 1px solid gainsboro;
+  padding: 10px;
+  margin: 10px;
+  border-radius: 10px;
+}
+
+input {
+  width: 250px;
+  height: 30px;
+  margin: 10px;
+}
+
+label {
+  font-family: 'Times New Roman', Times, serif;
+  
+}
+
+.subscribe {
+  margin-left: 187px;
+}
+
+.arabic {
+  font-size: 17px;
+  margin-left: 50px;
+}
+
+.last {
+  margin-left: 47px;
+}
+
+.reminder {
+  border: 1px solid gainsboro;
+  padding: 10px;
+}
+
+
+.footer {
+  
+  border: 1px solid gainsboro;
+  background-color: gainsboro;
+  height: 70px;
+  margin-top: 5px;
+  text-align: center;
+  padding: 20px;
+}
+
+a:hover {
+  background-color: gainsboro;
+}
